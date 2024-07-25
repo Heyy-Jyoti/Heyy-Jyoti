@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Jyoti</h1>
-<h3 align="center">A pursuing Master's in CSE-AI</h3>
+<h3 align="center">pursuing Master's in CSE-AI</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heyy-jyoti&label=Profile%20views&color=0e75b6&style=flat" alt="heyy-jyoti" /> </p>
 
