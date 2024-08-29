@@ -56,7 +56,7 @@ Welcome to my GitHub profile! I'm a passionate **Master's student** specializing
 
 ### **Fake News Detection**  
 *Jan - May 2024*  
-![Fake News Detection]([https://media.giphy.com/media/3o7aD2pBq1Scl7K2Hi/giphy.gif](https://tenor.com/view/monocle-private-detective-discovery-inspection-find-out-gif-3883207218805432220))  
+![Fake News Detection](https://media.tenor.com/NePsZDIhX5wAAAAi/monocle-private-detective.gif) 
 - Developed a sophisticated fake news detection system using advanced ML algorithms: SVM, Random Forest, XGBoost, Decision Tree, and Logistic Regression.
 - Created a user-friendly Flask web application for real-time news assessment.
 - **GitHub Repository:** [GitHub](https://github.com/Heyy-Jyoti/FAKE_NEWS_DETECTOR)  
