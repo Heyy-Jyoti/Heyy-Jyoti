@@ -56,7 +56,7 @@ Welcome to my GitHub profile! I'm a passionate **Master's student** specializing
 
 ### **Fake News Detection**  
 *Jan - May 2024*  
-![Fake News Detection](https://media.tenor.com/wHy__DhTNx4AAAAi/hmm-interesting.gif)
+![Fake News Detection](https://media.tenor.com/3KPd01EejtAAAAAi/fake-news-peter-galtman.gif)
 - Developed a sophisticated fake news detection system using advanced ML algorithms: SVM, Random Forest, XGBoost, Decision Tree, and Logistic Regression.
 - Created a user-friendly Flask web application for real-time news assessment.
 - **GitHub Repository:** [GitHub](https://github.com/Heyy-Jyoti/FAKE_NEWS_DETECTOR)  
@@ -64,7 +64,7 @@ Welcome to my GitHub profile! I'm a passionate **Master's student** specializing
 
 ### **FoodVilla - Recipe Reference and Ingredient Ordering System**  
 *Jan - July 2023*  
-![FoodVilla](https://media.giphy.com/media/l1J9zFZgFD59OaDW8/giphy.gif)  
+![FoodVilla](https://media.tenor.com/ZraqYVb0y14AAAAi/food-shopping.gif)
 - Engineered a dynamic and responsive web interface for exploring and ordering recipes.
 - Implemented a backend with MySQL for robust data handling and order processing.
 - Designed and optimized the frontend with HTML, CSS, JavaScript, and PHP for a modern user experience.
