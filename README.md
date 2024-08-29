@@ -1,4 +1,4 @@
-# Hi there! I'm Jyoti 👋
+# Hey there! I'm Jyoti 👋
 
 Welcome to my GitHub profile! I'm a passionate **Master's student** specializing in **Artificial Intelligence** at Indira Gandhi Delhi Technical University for Women. I love working with data, developing machine learning models, and creating innovative solutions using advanced technologies.
 
