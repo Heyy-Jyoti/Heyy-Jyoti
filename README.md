@@ -31,20 +31,28 @@ Welcome to my GitHub profile! I'm a passionate **Master's student** specializing
 
 ## 🚀 Projects
 
-### **Fake News Detection**  
-*Jan - May 2024*  
-![Fake News Detection](https://media.tenor.com/3KPd01EejtAAAAAi/fake-news-peter-galtman.gif)
-- Developed a sophisticated fake news detection system using advanced ML algorithms: SVM, Random Forest, XGBoost, Decision Tree, and Logistic Regression.
-- Created a user-friendly Flask web application for real-time news assessment.
+# Fake News Detection  
+*Jan - May 2024*
+
+<img src="https://media.tenor.com/3KPd01EejtAAAAAi/fake-news-peter-galtman.gif" alt="Fake News Detection" width="300"/>
+
+Developed a sophisticated fake news detection system using advanced ML algorithms: SVM, Random Forest, XGBoost, Decision Tree, and Logistic Regression.  
+Created a user-friendly Flask web application for real-time news assessment.  
+
 - **GitHub Repository:** [GitHub](https://github.com/Heyy-Jyoti/FAKE_NEWS_DETECTOR)  
 - **Live Web Application:** [Webpage](https://fake-news-detector-lcko.onrender.com/)
 
-### **FoodVilla - Recipe Reference and Ingredient Ordering System**  
-*Jan - July 2023*  
-![FoodVilla](https://media.tenor.com/ZraqYVb0y14AAAAi/food-shopping.gif)
-- Engineered a dynamic and responsive web interface for exploring and ordering recipes.
-- Implemented a backend with MySQL for robust data handling and order processing.
-- Designed and optimized the frontend with HTML, CSS, JavaScript, and PHP for a modern user experience.
+---
+
+# FoodVilla - Recipe Reference and Ingredient Ordering System  
+*Jan - July 2023*
+
+<img src="https://media.tenor.com/ZraqYVb0y14AAAAi/food-shopping.gif" alt="FoodVilla" width="300"/>
+
+Engineered a dynamic and responsive web interface for exploring and ordering recipes.  
+Implemented a backend with MySQL for robust data handling and order processing.  
+Designed and optimized the frontend with HTML, CSS, JavaScript, and PHP for a modern user experience.
+
 
 
 ## 📫 Contact Me
