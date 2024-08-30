@@ -37,33 +37,34 @@ Welcome to my GitHub profile! I'm a passionate **Master's student** specializing
 - Applied ML and DL techniques for waste classification and predictive modeling.
 - Studied blockchain for secure and transparent record-keeping.
 - Acquired skills in academic manuscript submission protocols.
-
 ## 🚀 Projects
 
-# Fake News Detection  
+### Fake News Detection  
 *Jan - May 2024*
 
-<p>
-  <img src="https://media.tenor.com/3KPd01EejtAAAAAi/fake-news-peter-galtman.gif" alt="Fake News Detection" width="200" />
+<p align="left">
+  <img src="https://media.tenor.com/3KPd01EejtAAAAAi/fake-news-peter-galtman.gif" alt="Fake News Detection" width="200" style="vertical-align: middle;"/>
+  <span style="display: inline-block; vertical-align: middle; margin-left: 10px;">
+    Developed a sophisticated fake news detection system using advanced ML algorithms: SVM, Random Forest, XGBoost, Decision Tree, and Logistic Regression.<br>
+    Created a user-friendly Flask web application for real-time news assessment.<br><br>
+    - **GitHub Repository:** [GitHub](https://github.com/Heyy-Jyoti/FAKE_NEWS_DETECTOR)<br>
+    - **Live Web Application:** [Webpage](https://fake-news-detector-lcko.onrender.com/)
+  </span>
 </p>
-
-Developed a sophisticated fake news detection system using advanced ML algorithms: SVM, Random Forest, XGBoost, Decision Tree, and Logistic Regression.  
-Created a user-friendly Flask web application for real-time news assessment.  
-
-- **GitHub Repository:** [GitHub](https://github.com/Heyy-Jyoti/FAKE_NEWS_DETECTOR)  
-- **Live Web Application:** [Webpage](https://fake-news-detector-lcko.onrender.com/)
 
 ---
 
-# FoodVilla - Recipe Reference and Ingredient Ordering System  
+### FoodVilla - Recipe Reference and Ingredient Ordering System  
 *Jan - July 2023*
 
-<img src="https://media.tenor.com/ZraqYVb0y14AAAAi/food-shopping.gif" alt="FoodVilla" width="200"/>
-
-Engineered a dynamic and responsive web interface for exploring and ordering recipes.  
-Implemented a backend with MySQL for robust data handling and order processing.  
-Designed and optimized the frontend with HTML, CSS, JavaScript, and PHP for a modern user experience.
-
+<p align="left">
+  <img src="https://media.tenor.com/ZraqYVb0y14AAAAi/food-shopping.gif" alt="FoodVilla" width="200" style="vertical-align: middle;"/>
+  <span style="display: inline-block; vertical-align: middle; margin-left: 10px;">
+    Engineered a dynamic and responsive web interface for exploring and ordering recipes.<br>
+    Implemented a backend with MySQL for robust data handling and order processing.<br>
+    Designed and optimized the frontend with HTML, CSS, JavaScript, and PHP for a modern user experience.
+  </span>
+</p>
 
 
 ## 📫 Contact Me
