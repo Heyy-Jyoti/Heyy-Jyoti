@@ -44,16 +44,23 @@ Welcome to my GitHub profile! I'm a passionate **Master's student** specializing
 ### Fake News Detection  
 *Jan - May 2024*
 
+## 🚀 Projects
+
+### Fake News Detection  
+*Jan - May 2024*
+
 <table>
   <tr>
     <td>
-      <img src="https://media.tenor.com/3KPd01EejtAAAAAi/fake-news-peter-galtman.gif" alt="Fake News Detection" width="200"/>
+      <img src="https://media.tenor.com/3KPd01EejtAAAAAi/fake-news-peter-galtman.gif" alt="Fake News Detection" width="200" style="vertical-align: middle;"/>
     </td>
     <td>
-      Developed a sophisticated fake news detection system using advanced ML algorithms: SVM, Random Forest, XGBoost, Decision Tree, and Logistic Regression.<br>
-      Created a user-friendly Flask web application for real-time news assessment.<br><br>
-      GitHub Repository:[GitHub](https://github.com/Heyy-Jyoti/FAKE_NEWS_DETECTOR)<br>
-      Live Web Application:[Webpage](https://fake-news-detector-lcko.onrender.com/)
+      <ul>
+        <li>Developed a sophisticated fake news detection system using advanced ML algorithms: SVM, Random Forest, XGBoost, Decision Tree, and Logistic Regression.</li>
+        <li>Created a user-friendly Flask web application for real-time news assessment.</li>
+        <li><strong>GitHub Repository:</strong> <a href="https://github.com/Heyy-Jyoti/FAKE_NEWS_DETECTOR">GitHub</a></li>
+        <li><strong>Live Web Application:</strong> <a href="https://fake-news-detector-lcko.onrender.com/">Webpage</a></li>
+      </ul>
     </td>
   </tr>
 </table>
@@ -66,16 +73,17 @@ Welcome to my GitHub profile! I'm a passionate **Master's student** specializing
 <table>
   <tr>
     <td>
-      <img src="https://media.tenor.com/ZraqYVb0y14AAAAi/food-shopping.gif" alt="FoodVilla" width="200"/>
+      <img src="https://media.tenor.com/ZraqYVb0y14AAAAi/food-shopping.gif" alt="FoodVilla" width="200" style="vertical-align: middle;"/>
     </td>
     <td>
-      Engineered a dynamic and responsive web interface for exploring and ordering recipes.<br>
-      Implemented a backend with MySQL for robust data handling and order processing.<br>
-      Designed and optimized the frontend with HTML, CSS, JavaScript, and PHP for a modern user experience.
+      <ul>
+        <li>Engineered a dynamic and responsive web interface for exploring and ordering recipes.</li>
+        <li>Implemented a backend with MySQL for robust data handling and order processing.</li>
+        <li>Designed and optimized the frontend with HTML, CSS, JavaScript, and PHP for a modern user experience.</li>
+      </ul>
     </td>
   </tr>
 </table>
-
 
 ## 📫 Contact Me
 
