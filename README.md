@@ -36,6 +36,7 @@ Welcome to my GitHub profile! I'm a passionate **Master's student** specializing
 
 <img src="https://media.tenor.com/3KPd01EejtAAAAAi/fake-news-peter-galtman.gif" alt="Fake News Detection" width="200" style="pointer-events: none;"/>
 
+
 Developed a sophisticated fake news detection system using advanced ML algorithms: SVM, Random Forest, XGBoost, Decision Tree, and Logistic Regression.  
 Created a user-friendly Flask web application for real-time news assessment.  
 
