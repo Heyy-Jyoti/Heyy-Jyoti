@@ -9,8 +9,7 @@ Welcome to my GitHub profile! I'm a passionate **Master's student** specializing
   *July 2023 - June 2025* 
   
 - **Dr. Rammanohar Lohia Awadh University, Uttar Pradesh, India**  
-  *Bachelor of Technology: IT*  
-  *July 2019 - June 2023*  
+  *Bachelor of Technology: IT*  *July 2019 - June 2023*  
 
 - **Kendriya Vidyalaya Sangathan, India**  
   12th Grade(*April 2018 - March 2019*)  
