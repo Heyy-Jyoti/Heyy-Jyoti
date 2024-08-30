@@ -5,7 +5,17 @@ Welcome to my GitHub profile! I'm a passionate **Master's student** specializing
 ## 🧑‍🎓 Education
 
 - **Indira Gandhi Delhi Technical University for Women, Delhi, India**  
-  *Master of Technology: CSE-AI*  
+  *Master of Technology: CSE-AI*
+  *July 2023 - June 2025* 
+  
+- **Dr. Rammanohar Lohia Awadh University, Uttar Pradesh, India**  
+  *Bachelor of Technology: IT*  
+  
+  *July 2019 - June 2023*  
+
+- **Kendriya Vidyalaya Sangathan, India**  
+  12th Grade: (*April 2018 - March 2019*)  
+  10th Grade: (*April 2016 - March 2017*)  
 
 
 ## 💼 Skills Summary
