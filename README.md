@@ -39,10 +39,7 @@ Welcome to my GitHub profile! I'm a passionate **Master's student** specializing
 - Acquired skills in academic manuscript submission protocols.
 
 
-## 🚀 Projects
 
-### Fake News Detection  
-*Jan - May 2024*
 
 ## 🚀 Projects
 
