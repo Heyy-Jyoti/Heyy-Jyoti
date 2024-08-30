@@ -13,8 +13,8 @@ Welcome to my GitHub profile! I'm a passionate **Master's student** specializing
   *July 2019 - June 2023*  
 
 - **Kendriya Vidyalaya Sangathan, India**  
-  12th Grade: (*April 2018 - March 2019*)  
-  10th Grade: (*April 2016 - March 2017*)  
+  12th Grade(*April 2018 - March 2019*)  
+  10th Grade(*April 2016 - March 2017*)  
 
 
 ## 💼 Skills Summary
