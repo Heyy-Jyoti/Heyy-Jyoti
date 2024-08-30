@@ -52,8 +52,8 @@ Welcome to my GitHub profile! I'm a passionate **Master's student** specializing
     <td>
       Developed a sophisticated fake news detection system using advanced ML algorithms: SVM, Random Forest, XGBoost, Decision Tree, and Logistic Regression.<br>
       Created a user-friendly Flask web application for real-time news assessment.<br><br>
-     - **GitHub Repository:** [GitHub](https://github.com/Heyy-Jyoti/FAKE_NEWS_DETECTOR)<br>
-     - **Live Web Application:** [Webpage](https://fake-news-detector-lcko.onrender.com/)
+      GitHub Repository:[GitHub](https://github.com/Heyy-Jyoti/FAKE_NEWS_DETECTOR)<br>
+      Live Web Application:[Webpage](https://fake-news-detector-lcko.onrender.com/)
     </td>
   </tr>
 </table>
