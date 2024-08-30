@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I'm a passionate **Master's student** specializing
 # Fake News Detection  
 *Jan - May 2024*
 
-<img src="https://media.tenor.com/3KPd01EejtAAAAAi/fake-news-peter-galtman.gif" alt="Fake News Detection" width="300"/>
+<img src="https://media.tenor.com/3KPd01EejtAAAAAi/fake-news-peter-galtman.gif" alt="Fake News Detection" width="200"/>
 
 Developed a sophisticated fake news detection system using advanced ML algorithms: SVM, Random Forest, XGBoost, Decision Tree, and Logistic Regression.  
 Created a user-friendly Flask web application for real-time news assessment.  
@@ -47,7 +47,7 @@ Created a user-friendly Flask web application for real-time news assessment.
 # FoodVilla - Recipe Reference and Ingredient Ordering System  
 *Jan - July 2023*
 
-<img src="https://media.tenor.com/ZraqYVb0y14AAAAi/food-shopping.gif" alt="FoodVilla" width="300"/>
+<img src="https://media.tenor.com/ZraqYVb0y14AAAAi/food-shopping.gif" alt="FoodVilla" width="200"/>
 
 Engineered a dynamic and responsive web interface for exploring and ordering recipes.  
 Implemented a backend with MySQL for robust data handling and order processing.  
