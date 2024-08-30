@@ -10,7 +10,6 @@ Welcome to my GitHub profile! I'm a passionate **Master's student** specializing
   
 - **Dr. Rammanohar Lohia Awadh University, Uttar Pradesh, India**  
   *Bachelor of Technology: IT*  
-  
   *July 2019 - June 2023*  
 
 - **Kendriya Vidyalaya Sangathan, India**  
