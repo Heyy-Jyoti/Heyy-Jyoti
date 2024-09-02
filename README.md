@@ -22,7 +22,20 @@ Welcome to my GitHub profile! I'm a passionate **Master's student** specializing
 |------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Languages**          | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
 | **Web Technologies**   | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white) |
-|**Tools**              | ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-00618A?style=flat&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)  ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white) ![Overleaf](https://img.shields.io/badge/-Overleaf-1C1D1F?style=flat&logo=latex&logoColor=white) ![Zotero](https://img.shields.io/badge/-Zotero-5D2F91?style=flat&logo=zotero&logoColor=white) ![MS PowerPoint](https://img.shields.io/badge/-MS%20PowerPoint-D83B01?style=flat&logo=microsoft-powerpoint&logoColor=white) ![MS Word](https://img.shields.io/badge/-MS%20Word-2B579A?style=flat&logo=microsoft-word&logoColor=white)  ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white) |
+|**Tools**              | ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sqlite&logoColor=white) 
+![MySQL](https://img.shields.io/badge/-MySQL-00618A?style=flat&logo=mysql&logoColor=white) 
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) 
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)  
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) 
+![Colab](https://img.shields.io/badge/-Colab-F9AB00?style=flat&logo=google-colab&logoColor=white) 
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white)  
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white) 
+![Overleaf](https://img.shields.io/badge/-Overleaf-1C1D1F?style=flat&logo=latex&logoColor=white) 
+![Zotero](https://img.shields.io/badge/-Zotero-5D2F91?style=flat&logo=zotero&logoColor=white) 
+![MS PowerPoint](https://img.shields.io/badge/-MS%20PowerPoint-D83B01?style=flat&logo=microsoft-powerpoint&logoColor=white) 
+![MS Word](https://img.shields.io/badge/-MS%20Word-2B579A?style=flat&logo=microsoft-word&logoColor=white)  
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+|
 |**Other**              | ![Data Structures](https://img.shields.io/badge/-Data%20Structures-000000?style=flat&logo=visual-studio&logoColor=white) ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-F7A700?style=flat&logo=google&logoColor=white) ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![NLP](https://img.shields.io/badge/-NLP-9B5DE5?style=flat&logo=python&logoColor=white) ![Cloud Computing](https://img.shields.io/badge/-Cloud%20Computing-1E9B5E?style=flat&logo=aws&logoColor=white) |
 | **Soft Skills**        | ![Problem-Solving](https://img.shields.io/badge/-Problem%20Solving-4CAF50?style=flat&logo=google&logoColor=white) ![Team Collaboration](https://img.shields.io/badge/-Team%20Collaboration-FF5722?style=flat&logo=slack&logoColor=white) ![Adaptability](https://img.shields.io/badge/-Adaptability-2196F3?style=flat&logo=google&logoColor=white) ![Time Management](https://img.shields.io/badge/-Time%20Management-FFC107?style=flat&logo=google&logoColor=white) ![Leadership](https://img.shields.io/badge/-Leadership-9C27B0?style=flat&logo=google&logoColor=white) |
 
