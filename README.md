@@ -93,3 +93,5 @@ Feel free to explore my repositories and reach out if you have any questions or 
 ---
 
 Thank you for visiting my GitHub profile! 😊
+![Profile Views](https://komarev.com/ghpvc/?username=Heyy-Jyoti&label=Profile%20Views&color=0e75b6&style=flat)
+
