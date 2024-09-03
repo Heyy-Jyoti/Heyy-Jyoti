@@ -1,4 +1,4 @@
-# Hey there! I'm Jyoti 👋
+# Hey there! I'm Jyoti 👋 ![Profile Views](https://komarev.com/ghpvc/?username=Heyy-Jyoti&label=Profile%20Views&color=0e75b6&style=flat)
 
 Welcome to my GitHub profile! I'm a passionate **Master's student** specializing in **Artificial Intelligence** at Indira Gandhi Delhi Technical University for Women. I love working with data, developing machine learning models, and creating innovative solutions using advanced technologies.
 
@@ -93,5 +93,5 @@ Feel free to explore my repositories and reach out if you have any questions or 
 ---
 
 Thank you for visiting my GitHub profile! 😊
-![Profile Views](https://komarev.com/ghpvc/?username=Heyy-Jyoti&label=Profile%20Views&color=0e75b6&style=flat)
+
 
